@@ -2100,6 +2100,7 @@ input, select, textarea {
 
 		.image img {
 			border-radius: 0.35em;
+                        max-height: 200px;
 			display: block;
 		}
 
